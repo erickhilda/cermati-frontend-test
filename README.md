@@ -34,6 +34,9 @@ npm run cy:run
 # or
 yarn cy:run
 ```
+
+## Demo
+you can check the demo here [Cermati](https://cermati-test-gules.vercel.app/)
 ## Recommended IDE Setup
 
 - [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
@@ -41,4 +44,4 @@ yarn cy:run
 - [x] Create layout for hero section
 - [x] Create component fro notification
 - [x] Create layout for help section include component card and footer
-- [ ] Create component for newsletter
+- [x] Create component for newsletter

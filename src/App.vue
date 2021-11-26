@@ -2,6 +2,7 @@
 import AppHero from "./components/AppHero.vue";
 import AppNotification from "./components/AppNotification.vue";
 import AppCard from "./components/AppCard.vue";
+import AppNewsletter from "./components/AppNewsletter.vue";
 import { cards } from "./mock/data.json";
 </script>
 
@@ -33,6 +34,7 @@ import { cards } from "./mock/data.json";
         <p class="text-white font-thin">© 2020 Erick Hilda Andreas. All rights reserved.</p>
       </div>
     </footer>
+    <AppNewsletter />
   </div>
 </template>
 
