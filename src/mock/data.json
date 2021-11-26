@@ -1,0 +1,35 @@
+{
+  "notification": "By accessing and using this website, you acknowledge that you have read and understand our Cookie Policy, Privacy Policy, and our Terms of Service.",
+  "cards": [
+    {
+      "title": "Consult",
+      "icon": "fa-solid:comments",
+      "content": "Co-create, design thinking; strengthen infrastructure resist granular.Revolution circular, movements or framework social impact low-hanging fruit. Save the world compelling revolutionary progress."
+    },
+    {
+      "title": "Design",
+      "icon": "fa-solid:paint-brush",
+      "content": "Policymaker collaborates collective impact humanitarian shared value vocabulary inspire issue outcomes agile. Overcome injustice deep dive agile issue outcomes vibrant boots on the ground sustainable."
+    },
+    {
+      "title": "Develop",
+      "icon": "fa-solid:cubes",
+      "content": "Revolutionary circular, movements a or impact framework social impact low-hanging. Save the compelling revolutionary inspire progress. Collective impacts and challenges for opportunities of thought provoking."
+    },
+    {
+      "title": "Marketing",
+      "icon": "fa-solid:bullhorn",
+      "content": "Peaceful; vibrant paradigm, collaborative cities. Shared vocabulary agile, replicable, effective altruism youth. Mobilize commitment to overcome injustice resilient, uplift social transparent effective."
+    },
+    {
+      "title": "Manage",
+      "icon": "fa-solid:sliders-h",
+      "content": "Change-makers innovation or shared unit of analysis. Overcome injustice outcomes strategize vibrant boots on the ground sustainable. Optimism, effective altruism invest optimism corporate social."
+    },
+    {
+      "title": "Evolve",
+      "icon": "fa-solid:chart-line",
+      "content": "Activate catalyze and impact contextualize humanitarian. Unit of analysis overcome injustice storytelling altruism. Thought leadership mass incarceration. Outcomes big data, fairness, social game-changer."
+    }
+  ]
+}
