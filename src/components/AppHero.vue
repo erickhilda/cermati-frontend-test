@@ -1,10 +1,12 @@
-<script setup>
-import AppNavbar from "./AppNavbar.vue";
-</script>
-
 <template>
   <div class="hero">
-    <AppNavbar />
+    <nav>
+      <div class="flex justify-between items-center mx-auto max-w-[82rem] p-4">
+        <a href="/">
+          <img src="../assets/y-logo-white.png" width="56" height="39" />
+        </a>
+      </div>
+    </nav>
     <div class="mx-auto flex flex-row justify-center items-center mt-24">
       <div class="text-white hero-text text-center">
         <h1 class="title">Hello! I'm Erick Hilda</h1>
